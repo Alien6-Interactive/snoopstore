@@ -1,0 +1,2 @@
+# snoopstore
+Configuration Management Database
