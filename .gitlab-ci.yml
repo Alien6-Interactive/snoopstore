@@ -1,7 +1,0 @@
-stages:
-  - deploy
-
-Git MIRROR:
-  stage: deploy
-  script:
-    - git push --mirror https://coopyrightdmin:77Paulin@github.com/Alien6-Interactive/snoopstore.git
